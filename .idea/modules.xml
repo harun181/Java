@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATMManagement/ATMManagement.iml" filepath="$PROJECT_DIR$/ATMManagement/ATMManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HospitalManagment/HospitalManagment.iml" filepath="$PROJECT_DIR$/HospitalManagment/HospitalManagment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Project.iml" filepath="$PROJECT_DIR$/Java Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryManagement/LibraryManagement.iml" filepath="$PROJECT_DIR$/LibraryManagement/LibraryManagement.iml" />
+    </modules>
+  </component>
+</project>
